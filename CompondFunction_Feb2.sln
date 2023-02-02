@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompondFunction_Feb2", "CompondFunction_Feb2\CompondFunction_Feb2.csproj", "{EC02A3BC-7294-46AD-AD70-6A574ADA70F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC02A3BC-7294-46AD-AD70-6A574ADA70F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC02A3BC-7294-46AD-AD70-6A574ADA70F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC02A3BC-7294-46AD-AD70-6A574ADA70F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC02A3BC-7294-46AD-AD70-6A574ADA70F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDADF2E-E0FF-4472-A44B-BB347891C386}
+	EndGlobalSection
+EndGlobal
